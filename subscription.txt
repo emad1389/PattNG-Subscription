@@ -4,4 +4,4 @@ aether://162.159.199.38:443?protocol=masque&scan=balanced&ip=both&transport=h2&p
 aether://162.159.199.60:443?protocol=masque&scan=balanced&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=DE#%F0%9F%87%A9%F0%9F%87%AADE
 aether://162.159.198.255:443?protocol=masque&scan=balanced&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=JP#%F0%9F%87%AF%F0%9F%87%B5JP
 aether://162.159.199.124:443?protocol=masque&scan=balanced&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=NL#%F0%9F%87%B3%F0%9F%87%B1NL
-aether://162.159.198.65:443?protocol=masque&scan=balanced&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=US#%F0%9F%87º%F0%9F%87¸US
+aether://162.159.198.65:443?protocol=masque&scan=balanced&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=US#%F0%9F%87%BA%F0%9F%87%B8US
