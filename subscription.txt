@@ -1,0 +1,7 @@
+aether://162.159.198.31:443?protocol=masque&scan=turbo&ip=both&transport=h2#%F0%9F%87%AE%F0%9F%87%B7IR-1
+aether://?protocol=mim&scan=balanced&ip=both&transport=h2&outer=162.159.198.233%3A443&inner=162.159.198.92%3A443#%F0%9F%87%AE%F0%9F%87%B7IR-2
+aether://162.159.199.38:443?protocol=masque&scan=balanced&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=FI#%F0%9F%87%AB%F0%9F%87%AEFL
+aether://162.159.199.60:443?protocol=masque&scan=balanced&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=DE#%F0%9F%87%A9%F0%9F%87%AADE
+aether://162.159.198.255:443?protocol=masque&scan=balanced&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=JP#%F0%9F%87%AF%F0%9F%87%B5JP
+aether://162.159.199.124:443?protocol=masque&scan=balanced&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=NL#%F0%9F%87%B3%F0%9F%87%B1NL
+aether://162.159.198.65:443?protocol=masque&scan=balanced&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=US#%F0%9F%87º%F0%9F%87¸US
