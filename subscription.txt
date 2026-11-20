@@ -4,7 +4,7 @@ aether://162.159.198.31:443?protocol=masque&scan=turbo&ip=both&transport=h2#%F0%
 aether://?protocol=mim&scan=balanced&ip=both&transport=h2&outer=162.159.198.233%3A443&inner=162.159.198.92%3A443#%F0%9F%87%AE%F0%9F%87%B7IR-2
 aether://162.159.198.123:443?protocol=masque&scan=turbo&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=AU#%F0%9F%87%A6%F0%9F%87%BAAU
 aether://162.159.198.89:443?protocol=masque&scan=turbo&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=AT#%F0%9F%87%A6%F0%9F%87%B9AT
-aether://162.159.198.226:443?protocol=masque&scan=turbo&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=BE#%F0%9F%87%A7%F0%9F%87%ABE
+aether://162.159.198.226:443?protocol=masque&scan=turbo&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=BE#%F0%9F%87%A7%F0%9F%87%A7BE
 aether://162.159.198.86:443?protocol=masque&scan=turbo&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=CZ#%F0%9F%87%A8%F0%9F%87%BFCZ
 aether://162.159.198.31:443?protocol=masque&scan=turbo&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=DK#%F0%9F%87%A9%F0%9F%87%B0DK
 aether://162.159.199.60:443?protocol=masque&scan=balanced&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=DE#%F0%9F%87%A9%F0%9F%87%AADE
